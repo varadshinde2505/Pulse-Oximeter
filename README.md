@@ -6,7 +6,7 @@ Academic project: K. J. Somaiya Institute of Technology, Mumbai, Dept. of Electr
 Guide: Prof. Pradnya Kamble.
 Team: Ayush Sharma, Varad Shinde, Prathamesh Takey.
 
-![System design](pulse/docs/images/system-design.jpeg)
+<img width="1600" height="1000" alt="system-design" src="https://github.com/user-attachments/assets/9f7afc89-2cb2-406f-b91b-4378c2940555" />
 
 ## Features
 
@@ -49,7 +49,7 @@ Traditional pulse oximeters are expensive, bulky, and usually lack connectivity,
 
 The sensor and display share the I2C bus (A4/A5).
 
-![Circuit diagram](pulse/docs/images/circuit-diagram.png)
+<img width="1024" height="615" alt="circuit-diagram" src="https://github.com/user-attachments/assets/be7fb192-82e8-4a93-a635-87b370606432" />
 
 ## Software
 
@@ -64,7 +64,7 @@ The sensor and display share the I2C bus (A4/A5).
 3. Readings are shown on the local display.
 4. Readings are sent over Wi-Fi to the web platform and stored in a database.
 
-![Flow diagram](pulse/docs/images/flow-diagram.png)
+<img width="777" height="400" alt="flow-diagram" src="https://github.com/user-attachments/assets/87d94a4c-296e-4172-a4b5-44aac9611236" />
 
 ## Results
 
@@ -73,7 +73,8 @@ The sensor and display share the I2C bus (A4/A5).
 - About ±2% deviation versus a commercial oximeter
 - Motion artifacts cause slight variation; better filtering can reduce them
 
-![Results](pulse/docs/images/results.png)
+<img width="1240" height="785" alt="results" src="https://github.com/user-attachments/assets/6235c6a6-7aff-4ad6-916b-526a8a446f2d" />
+
 
 ## Applications
 
